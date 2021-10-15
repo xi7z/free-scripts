@@ -7,4 +7,4 @@ game:service'StarterGui':SetCore("SendNotification", {
         Text = "> Say baba ibrahim Dew for script < ibrahim Dew ";
     })
 
-game.Players.LocalPlayer:Kick("kick by < ibrahim Dew > (paid)")
+game.Players.LocalPlayer:Kick("Banned by wenlocktoad vs indra (paid)")
